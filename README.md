@@ -2,21 +2,19 @@
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Dharma_Wheel.svg" alt="Dharmachakra" align="right" width="170">](https://en.wikipedia.org/wiki/Theravada)
 
-> A curated list of Theravada Buddhist teachings.
-
 [Theravada](https://en.wikipedia.org/wiki/Theravada) is a branch of Buddhism that draws its doctrine from the Pali canon, one of the oldest surviving records of the Buddha's teachings.
-
-Are you looking to [learn the Pali language](https://github.com/unbinding-org/awesome-pali)?
 
 ## Contents
 
 - [Academic](#academic)
+- [Articles](#articles)
 - [Blogs](#blogs)
 - [Books](#books)
 - [Dhamma Talks](#dhamma-talks)
 - [Forums](#forums)
-- [Monasteries](#monasteries)
 - [Organizations](#organizations)
+- [Pali](#pali)
+- [Places](#places)
 - [Suttas](#suttas)
 - [Videos](#videos)
 - [License](#license)
@@ -26,6 +24,11 @@ Are you looking to [learn the Pali language](https://github.com/unbinding-org/aw
 - [A Systematic Study of the Majjhima Nikaya](http://bodhimonastery.org/a-systematic-study-of-the-majjhima-nikaya.html) - Lectures on the life of the Buddha, ethics, meditation, and wisdom.
 - [An Introduction to Buddhism](http://www.aimwell.org/buddhism.html) - Bhikkhu Pesala provides an overview of the Noble Eightfold Path and several meditation techniques in plain language.
 - [Universität Hamburg: Prof. Bhikkhu Analayo](https://www.buddhismuskunde.uni-hamburg.de/en/personen/analayo.html) - Author of several books and papers on Theravada topics.
+
+## Articles
+
+- [Allowing Things to Arise](http://buddhanet.net/4noble19.htm) - How to handle the desire to get rid of negative mind states.
+- [Letting Go](http://buddhanet.net/4noble14.htm) - Letting go through contemplation, explained with concrete examples.
 
 ## Blogs
 
@@ -57,7 +60,25 @@ Are you looking to [learn the Pali language](https://github.com/unbinding-org/aw
 - [/r/thaiforest/](https://www.reddit.com/r/thaiforest/) - Subreddit for the Thai Forest Tradition.
 - [/r/theravada/](https://www.reddit.com/r/theravada/) - Subreddit where anyone can discuss, ask questions, and post teachings.
 
-## Monasteries
+## Organizations
+
+- [Forest Sangha](https://forestsangha.org/) - Home of the international monasteries in the Thai Forest Tradition of Ajahn Chah.
+- [Sirimangalo International](https://www.sirimangalo.org/) - Teachings on meditation and Buddhism in audio, video, and printed format. It is also a meditation centre located in Hamilton, Ontario.
+
+## Pali
+
+- [Pali Tutor](https://www.arrowriver.ca/pali/paliDrill1.html) - Practice declensions, conjugations, and vocabulary.
+- [Pronunciation](http://www.bps.lk/pali_misc/palipron.html) - Single page guide on the Pali alphabet and its pronunciation.
+- [Bhikkhu Bodhi's A Course in the Pali Language](http://bodhimonastery.org/a-course-in-the-pali-language.html) - Designed to help you to learn the basics of Pali grammar and vocabulary through direct study of selections from the Buddha’s discourses. It aims to enable you to read the Buddha’s discourses in the original as quickly as possible.
+- [Buddha Vacana](http://www.buddha-vacana.org/index.html) - This website is dedicated to those who wish to understand better the words of the Buddha by learning the basics of Pali language, but who don't have much time available for it.
+- [Pali Suffixes](http://dhamma.ru/paali/tables/palisufi.htm) - List of the different ways words can end, from the Pali Dictionary by Kogen Mizuno.
+- [Basic Pāli Noun Declension (PDF)](http://palitools.sourceforge.net/docs/BasicPaliNounDeclension.pdf) - Cheatsheet with the various forms that nouns can take. 
+- [Pali Verbal Endings (PDF)](http://palitools.sourceforge.net/docs/PaliVerbalEndings.pdf) - Cheatsheet with verbal endings based on tense.
+- [Morphological analyzer and generator for Pali (PDF)](https://arxiv.org/pdf/1510.01570.pdf) - First step in the direction of the morphological analysis of Pali.
+
+## Places
+
+### Monasteries
 
 - [Abhayagiri](https://www.abhayagiri.org) - Redwood Valley, California - Environment in which individuals and families are given the opportunity to be in contact with the principles of the Buddha's teachings.
 - [Amaravati](http://www.amaravati.org/) - Hertfordshire, England - Place of practice for monks and nuns in the Forest Tradition.
@@ -67,17 +88,19 @@ Are you looking to [learn the Pali language](https://github.com/unbinding-org/aw
 - [Buddha Bodhivana](http://buddhabodhivana.org/) - East Warburton, Victoria, Australia - Forest monastery in a small town.
 - [Cittaviveka](http://www.cittaviveka.org/) - Hampshire, England - Primarily a residence for monks and nuns.
 - [Dhammapala](http://dhammapala.ch/home-eng/) -  Kandersteg, Switzerland - Quiet monastery in the mountains.
-- [Pacific Hermitage](http://pacifichermitage.org/) - White Salmon, Washington - Small monastery where monks can devote time to study and meditation.
 - [Temple Forest Monastery](http://forestmonastery.org/) - Temple, New Hampshire - Balance of wilderness, seclusion, and accessibility.
-- [The Forest Hermitage](http://foresthermitage.org.uk/) - Warwickshire, England - Headquarters of the Buddhist Prison Chaplaincy Organisation.
 - [Wat Nong Pah Pong](http://watnongpahpong.org/indexe.php) - Ubon Ratchathani, Thailand - Forest monastery established by the venerable Ajahn Chah.
 - [Wat Pah Nanachat](http://www.watpahnanachat.org/) - Ubon Ratchathani, Thailand - Where English-speakers can practice the simple lifestyle as taught by the Buddha.
+
+### Temples
+
 - [Wat San Fran](http://watsanfran.org/) - San Francisco, California - Temple for learning, celebrating Buddhist holidays, as well as experiencing Thai culture.
 
-## Organizations
+### Hermitages
 
-- [Forest Sangha](https://forestsangha.org/) - Home of the international monasteries in the Thai Forest Tradition of Ajahn Chah.
-- [Sirimangalo International](https://www.sirimangalo.org/) - Teachings on meditation and Buddhism in audio, video, and printed format. It is also a meditation centre located in Hamilton, Ontario.
+- [Hillside Hermitage](http://www.hillsidehermitage.org/) - Small hermitage for monks of the Forest Tradition near the Knuckles mountain range in Sri Lanka.
+- [Pacific Hermitage](http://pacifichermitage.org/) - White Salmon, Washington - Small monastery where monks can devote time to study and meditation.
+- [The Forest Hermitage](http://foresthermitage.org.uk/) - Warwickshire, England - Headquarters of the Buddhist Prison Chaplaincy Organisation.
 
 ## Suttas
 
@@ -120,6 +143,7 @@ Are you looking to [learn the Pali language](https://github.com/unbinding-org/aw
 - [Dhamma in English](https://www.youtube.com/channel/UCi_BnRZmNgECsJGS31F495g/videos) - Live talks and Q&A with lay visitors from around the world. (English)
 - [Dhamma Talks by Thanissaro Bhikkhu](https://www.youtube.com/channel/UC6FSq_ptJ-I6aTHT-XA_e0Q) - Longer audio talks from Thanissaro Bhikkhu.
 - [Dhammanet](https://www.youtube.com/user/dhammanet/videos) - Inspiring and enlightening discourses by respected scholars, Buddhist monks and philosophers.
+- [Hillside Hermitage](https://www.youtube.com/channel/UCKejmWAt_kNpRMq5gQEGAqw/videos) - Short Q&A dhamma talks by Ajahn Nyanamoli Thero.
 - [London Buddhist Videos](https://www.youtube.com/channel/UCDtDoWqqaE_GMOBf33PtsOA/videos) - Talks, lectures, and educational materials from the London Buddhist Vihara.
 - [PhraSuchart Live](https://www.youtube.com/channel/UCHtDbJ3n3aURo0yjyD8kcNA/videos) - Live talks and Q&A with lay visitors from around the world. (Thai - ไทย)
 - [Portland Friends of the Dhamma](https://www.youtube.com/channel/UCHLz6Y2gbO2njffgLsV6FrA) - Buddhist center in the Thai Forest tradition of Ajahn Chah that hosts talks from visiting monastics.
