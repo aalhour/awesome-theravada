@@ -33,7 +33,9 @@
 ## Blogs
 
 - [Bosque Theravada](https://www.bosquetheravada.org/) - Web budista dedicada al Canon Pali, el budismo temprano, y la Tradición de Ajahn Chah.
+- [Cattāri Brahmavihārā](https://cattaribrahmavihara.com/) - Father of three in NYC who maintains a daily practice.
 - [Dhamma Musings](https://sdhammika.blogspot.com/) - Shravasti Dhammika's musings and travels.
+- [Dhamma Reflections](https://dhammareflections.wordpress.com/) - Lay disciple's insights in practicing the early Buddhist teachings.
 - [Sujato’s Blog](https://sujato.wordpress.com/) - Opinions on Buddhism and related issues in a contemporary context.
 - [Reflections: Ajahn Sucitto](https://sucitto.blogspot.com/) - Personal blog of an experienced Buddhist monk.
 
@@ -55,6 +57,7 @@
 
 ## Forums
 
+- [Discuss & Discover](https://discourse.suttacentral.net/) - Forums for SuttaCentral early Buddhist texts.
 - [Dhamma Wheel](https://dhammawheel.com/) - Discussion on a wide variety of topics pertaining to Theravada Buddhism.
 - [Dhammaloka Community](http://community.dhammaloka.org.au/forum.php) - Ask and learn from the members of Dhammaloka City Centre in Australia.
 - [/r/thaiforest/](https://www.reddit.com/r/thaiforest/) - Subreddit for the Thai Forest Tradition.
@@ -117,6 +120,7 @@
 - [Access to Insight](http://www.accesstoinsight.org/) - Translations of over one thousand suttas from the Pali Canon.
 - [dhammadāna](http://dhammadana.org/) - Learn about the Buddha's original teachings in French, English, Italian, Burmese, and Japanese.
 - [Dhammapada](http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html) - Short verses that summarize the essential principles of the Buddha's teachings.
+- [Parallel Reading of the Dhammapada](http://myweb.ncku.edu.tw/~lsn46/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-en/) - Read and compare multiple versions of the Dhammapada side-by-side.
 - [Sādhu!](https://www.dhamma.ru/sadhu/) - World directory of physical locations and websites.
 - [SuttaCentral](https://suttacentral.net/) - Early Buddhist texts, translations, and parallels in many languages.
 
