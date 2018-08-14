@@ -28,6 +28,7 @@
 ## Articles
 
 - [Allowing Things to Arise](http://buddhanet.net/4noble19.htm) - How to handle the desire to get rid of negative mind states.
+- [Grasping and Clining](http://www.buddhanet.net/budasa7.htm) - The four different kinds of attachment and how to eliminate the causes of those attachments.
 - [Letting Go](http://buddhanet.net/4noble14.htm) - Letting go through contemplation, explained with concrete examples.
 
 ## Blogs
@@ -90,7 +91,9 @@
 - [Bodhinyanarama](http://www.bodhinyanarama.net.nz/) - Wellington, New Zealand - Sanctuary in a wooded valley that serves as a monastic residence and public area for Buddhist events.
 - [Buddha Bodhivana](http://buddhabodhivana.org/) - East Warburton, Victoria, Australia - Forest monastery in a small town.
 - [Cittaviveka](http://www.cittaviveka.org/) - Hampshire, England - Primarily a residence for monks and nuns.
+- [Dhamma Vihara](http://www.dhammavihara.org/) - Veracruz, Mexico - Facilitates group and individual meditation retreats.
 - [Dhammapala](http://dhammapala.ch/home-eng/) -  Kandersteg, Switzerland - Quiet monastery in the mountains.
+- [Mosteiro Suddhavāri](https://suddhavari.org/) - São Lourenço, Minas Gerais, Brazil - Forest Tradition monastery with Ajahn Mudito as its resident monastic.
 - [Temple Forest Monastery](http://forestmonastery.org/) - Temple, New Hampshire - Balance of wilderness, seclusion, and accessibility.
 - [Wat Nong Pah Pong](http://watnongpahpong.org/indexe.php) - Ubon Ratchathani, Thailand - Forest monastery established by the venerable Ajahn Chah.
 - [Wat Pah Nanachat](http://www.watpahnanachat.org/) - Ubon Ratchathani, Thailand - Where English-speakers can practice the simple lifestyle as taught by the Buddha.
@@ -109,6 +112,7 @@
 
 ### Individual Suttas
 
+- [Aputtaka Sutta: Heirless](https://www.accesstoinsight.org/tipitaka/sn/sn03/sn03.019.than.html) - The Buddha criticizes those who hoard wealth without enjoying it or giving it to others.
 - [Dhammacakkappavattana Sutta: Setting the Wheel of Dhamma in Motion](http://www.accesstoinsight.org/tipitaka/sn/sn56/sn56.011.than.html) - The Buddha's first discourse.
 - [Samaññaphala Sutta: The Fruits of the Contemplative Life](http://www.accesstoinsight.org/tipitaka/dn/dn.02.0.than.html) - Comprehensive portrait of the Buddhist path of training, illustrating each stage of the training with vivid similes.
 - [Kasi Bharadvaja Sutta: To the Plowing Bharadvaja](http://www.accesstoinsight.org/tipitaka/sn/sn07/sn07.011.than.html) - The Buddha explains how he plows, sows, and eats like a farmer.
