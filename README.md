@@ -30,6 +30,7 @@
 - [Allowing Things to Arise](http://buddhanet.net/4noble19.htm) - How to handle the desire to get rid of negative mind states.
 - [Grasping and Clining](http://www.buddhanet.net/budasa7.htm) - The four different kinds of attachment and how to eliminate the causes of those attachments.
 - [Letting Go](http://buddhanet.net/4noble14.htm) - Letting go through contemplation, explained with concrete examples.
+- [ThoughtCo](https://www.thoughtco.com/buddhism-4133165) - Clear and well-written series on Buddhism by Barbara O'Brien, with many references to the Pāli Canon.
 
 ## Blogs
 
@@ -38,6 +39,7 @@
 - [Cattāri Brahmavihārā](https://cattaribrahmavihara.com/) - Father of three in NYC who maintains a daily practice.
 - [Dhamma Musings](https://sdhammika.blogspot.com/) - Shravasti Dhammika's musings and travels.
 - [Dhamma Reflections](https://dhammareflections.wordpress.com/) - Lay disciple's insights in practicing the early Buddhist teachings.
+- [In the Words of Buddha](https://inthewordsofbuddha.wordpress.com/) - Making the authentic teachings of the Buddha accessible to the modern world through textual analysis.
 - [Sujato’s Blog](https://sujato.wordpress.com/) - Opinions on Buddhism and related issues in a contemporary context.
 - [Reflections: Ajahn Sucitto](https://sucitto.blogspot.com/) - Personal blog of an experienced Buddhist monk.
 
@@ -62,8 +64,6 @@
 - [Discuss & Discover](https://discourse.suttacentral.net/) - Forums for SuttaCentral early Buddhist texts.
 - [Dhamma Wheel](https://dhammawheel.com/) - Discussion on a wide variety of topics pertaining to Theravada Buddhism.
 - [Dhammaloka Community](http://community.dhammaloka.org.au/forum.php) - Ask and learn from the members of Dhammaloka City Centre in Australia.
-- [/r/thaiforest/](https://www.reddit.com/r/thaiforest/) - Subreddit for the Thai Forest Tradition.
-- [/r/theravada/](https://www.reddit.com/r/theravada/) - Subreddit where anyone can discuss, ask questions, and post teachings.
 
 ## Organizations
 
@@ -123,6 +123,7 @@
 ### Resources
 
 - [Access to Insight](http://www.accesstoinsight.org/) - Translations of over one thousand suttas from the Pali Canon.
+- [Apadāna (Legends of the Buddhist Saints)](http://apadanatranslation.org/) - Complete translation of six hundred autobiographical poems ascribed to the accomplished Buddhas and Arahants of the early Buddhist community.
 - [dhammadāna](http://dhammadana.org/) - Learn about the Buddha's original teachings in French, English, Italian, Burmese, and Japanese.
 - [Dhammapada](http://www.accesstoinsight.org/tipitaka/kn/dhp/dhp.intro.budd.html) - Short verses that summarize the essential principles of the Buddha's teachings.
 - [Parallel Reading of the Dhammapada](http://myweb.ncku.edu.tw/~lsn46/tipitaka/sutta/khuddaka/dhammapada/dhp-contrast-reading/dhp-contrast-reading-en/) - Read and compare multiple versions of the Dhammapada side-by-side.
